@@ -2,23 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61373792-ade8-452c-aa8a-49e8917bb229" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetCode/src/main/java/bookOne/algorithmImpl/Subject_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetCode/src/main/java/bookOne/algorithmImpl/Subject_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetCode/src/main/java/bookOne/algorithmImpl/Subject_12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetCode/src/main/java/bookOne/algorithmImpl/Subject_13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetCode/src/main/java/bookOne/algorithmImpl/Subject_14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetCode/src/main/java/bookOne/algorithmImpl/Subject_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetCode/src/main/java/bookOne/algorithmImpl/Subject_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetCode/src/main/java/bookOne/algorithmImpl/Subject_9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetCode/src/main/java/bookOne/helperClass/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/src/main/java/bookOne/algorithmImpl/Subject_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/src/main/java/bookOne/algorithmImpl/Subject_16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/src/main/java/bookOne/algorithmImpl/Subject_17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/src/main/java/bookOne/algorithmImpl/Subject_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/src/main/java/bookOne/algorithmImpl/Subject_19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/src/main/java/bookOne/algorithmImpl/Subject_20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/src/main/java/bookOne/algorithmImpl/Subject_21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/src/main/java/bookOne/algorithmImpl/Subject_22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/src/main/java/bookOne/algorithmImpl/Subject_23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/src/main/java/bookOne/algorithmImpl/Subject_24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/src/main/java/bookOne/algorithmImpl/Subject_25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/src/main/java/bookOne/helperClass/TreeNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode/src/main/java/BookOne/Subject_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/src/main/java/bookOne/algorithmImpl/Subject_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode/src/main/java/BookOne/Subject_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/src/main/java/bookOne/algorithmImpl/Subject_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode/src/main/java/BookOne/Subject_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/src/main/java/bookOne/algorithmImpl/Subject_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode/src/main/java/BookOne/Subject_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/src/main/java/bookOne/algorithmImpl/Subject_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode/src/main/java/BookOne/Subject_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/src/main/java/bookOne/algorithmImpl/Subject_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode/src/main/java/BookOne/Subject_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/src/main/java/bookOne/algorithmImpl/Subject_6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leetCode/src/main/java/main/mainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/src/main/java/main/mainTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -30,12 +26,58 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetCode/src/main/java/main/mainTest.java">
+        <entry file="file://$PROJECT_DIR$/leetCode/src/main/java/bookOne/algorithmImpl/Subject_21.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="29" column="60" selection-start-line="29" selection-start-column="55" selection-end-line="29" selection-end-column="60" />
+            <state relative-caret-position="198">
+              <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+              <folding>
+                <element signature="e#324#325#0" expanded="true" />
+                <element signature="e#364#365#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetCode/src/main/java/bookOne/algorithmImpl/Subject_22.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="30" column="46" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetCode/src/main/java/bookOne/algorithmImpl/Subject_23.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="10" column="21" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetCode/src/main/java/bookOne/algorithmImpl/Subject_24.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="159">
+              <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetCode/src/main/java/bookOne/algorithmImpl/Subject_25.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="355">
+              <caret line="53" column="5" lean-forward="true" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -44,10 +86,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/leetCode/src/main/java/bookOne/algorithmImpl/Subject_14.java">
+        <entry file="file://$PROJECT_DIR$/leetCode/src/main/java/main/mainTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="33" column="39" lean-forward="true" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
+            <state relative-caret-position="288">
+              <caret line="24" column="46" lean-forward="true" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetCode/src/main/java/bookOne/helperClass/TreeNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="61" lean-forward="true" selection-start-line="7" selection-start-column="61" selection-end-line="7" selection-end-column="61" />
             </state>
           </provider>
         </entry>
@@ -83,6 +137,18 @@
         <option value="$PROJECT_DIR$/leetCode/src/main/java/bookOne/algorithmImpl/Subject_12.java" />
         <option value="$PROJECT_DIR$/leetCode/src/main/java/bookOne/algorithmImpl/Subject_13.java" />
         <option value="$PROJECT_DIR$/leetCode/src/main/java/bookOne/algorithmImpl/Subject_14.java" />
+        <option value="$PROJECT_DIR$/leetCode/src/main/java/bookOne/algorithmImpl/Subject_15.java" />
+        <option value="$PROJECT_DIR$/leetCode/src/main/java/bookOne/algorithmImpl/Subject_16.java" />
+        <option value="$PROJECT_DIR$/leetCode/src/main/java/bookOne/algorithmImpl/Subject_17.java" />
+        <option value="$PROJECT_DIR$/leetCode/src/main/java/bookOne/algorithmImpl/Subject_18.java" />
+        <option value="$PROJECT_DIR$/leetCode/src/main/java/bookOne/algorithmImpl/Subject_19.java" />
+        <option value="$PROJECT_DIR$/leetCode/src/main/java/bookOne/algorithmImpl/Subject_20.java" />
+        <option value="$PROJECT_DIR$/leetCode/src/main/java/bookOne/algorithmImpl/Subject_21.java" />
+        <option value="$PROJECT_DIR$/leetCode/src/main/java/bookOne/algorithmImpl/Subject_22.java" />
+        <option value="$PROJECT_DIR$/leetCode/src/main/java/bookOne/algorithmImpl/Subject_23.java" />
+        <option value="$PROJECT_DIR$/leetCode/src/main/java/bookOne/algorithmImpl/Subject_24.java" />
+        <option value="$PROJECT_DIR$/leetCode/src/main/java/bookOne/helperClass/TreeNode.java" />
+        <option value="$PROJECT_DIR$/leetCode/src/main/java/bookOne/algorithmImpl/Subject_25.java" />
         <option value="$PROJECT_DIR$/leetCode/src/main/java/main/mainTest.java" />
       </list>
     </option>
@@ -102,16 +168,15 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-12" />
+    <option name="y" value="-12" />
     <option name="width" value="801" />
-    <option name="height" value="1034" />
+    <option name="height" value="1035" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -187,12 +252,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1600772636406" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1602591063982" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="SDKs" />
@@ -255,7 +322,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600395028681</updated>
-      <workItem from="1600395031496" duration="31447000" />
+      <workItem from="1600395031496" duration="41304000" />
+      <workItem from="1601208879926" duration="6100000" />
+      <workItem from="1601377103293" duration="5742000" />
+      <workItem from="1601517988422" duration="599000" />
+      <workItem from="1601535830276" duration="1202000" />
+      <workItem from="1601970981443" duration="4001000" />
+      <workItem from="1602117751510" duration="3316000" />
+      <workItem from="1602485994871" duration="444000" />
+      <workItem from="1602507810762" duration="500000" />
+      <workItem from="1602590406280" duration="620000" />
     </task>
     <task id="LOCAL-00001" summary="feat : 提交了一些配置文件，leetCode网程序员面试经典书中的几道算法题">
       <created>1600419040783</created>
@@ -264,45 +340,52 @@
       <option name="project" value="LOCAL" />
       <updated>1600419040784</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat : 目录优化，完成10道算法题">
+      <created>1600772902222</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600772902222</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31447000" />
+    <option name="totallyTimeSpent" value="63828000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19886823" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30962005" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" weight="0.3283859" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" weight="0.5361781" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.34508348" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.43970317" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30241188" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.35250464" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Maven" weight="0.32983023" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.69016695" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3283859" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.32983023" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
     <layout-to-restore>
       <window_info id="Image Layers" order="0" />
@@ -341,12 +424,23 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat : 提交了一些配置文件，leetCode网程序员面试经典书中的几道算法题" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat : 提交了一些配置文件，leetCode网程序员面试经典书中的几道算法题" />
+    <MESSAGE value="feat : 目录优化，完成10道算法题" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat : 目录优化，完成10道算法题" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetCode/src/main/java/bookOne/algorithmImpl/Subject_25.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/BookOne/Subject_1.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BookOne/Subject_1.java" />
     <entry file="file://$PROJECT_DIR$/leetCode/src/main/java/subject/SubjectFour.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="302">
@@ -378,23 +472,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetCode/src/main/java/BookOneData/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
-          <folding>
-            <element signature="e#162#163#0" expanded="true" />
-            <element signature="e#188#189#0" expanded="true" />
-            <element signature="e#166#167#0" expanded="true" />
-            <element signature="e#196#197#0" expanded="true" />
-            <element signature="e#229#230#0" expanded="true" />
-            <element signature="e#256#257#0" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#330#331#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/leetCode/src/main/java/BookOneData/ListNode.java" />
     <entry file="file://$PROJECT_DIR$/leetCode/src/main/java/bookOne/algorithmImpl/Subject_1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
@@ -499,10 +577,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetCode/src/main/java/main/mainTest.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/Stack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="29" column="60" selection-start-line="29" selection-start-column="55" selection-end-line="29" selection-end-column="60" />
+        <state relative-caret-position="162">
+          <caret line="79" column="26" selection-start-line="79" selection-start-column="26" selection-end-line="79" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetCode/src/main/java/bookOne/algorithmImpl/Subject_15.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetCode/src/main/java/bookOne/algorithmImpl/Subject_16.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetCode/src/main/java/bookOne/algorithmImpl/Subject_17.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetCode/src/main/java/bookOne/algorithmImpl/Subject_18.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="36" column="48" selection-start-line="36" selection-start-column="48" selection-end-line="36" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#855#856#0" expanded="true" />
+            <element signature="e#890#891#0" expanded="true" />
+            <element signature="e#917#918#0" expanded="true" />
+            <element signature="e#954#955#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetCode/src/main/java/bookOne/algorithmImpl/Subject_19.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -511,8 +634,118 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/leetCode/src/main/java/bookOne/algorithmImpl/Subject_14.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="33" column="39" lean-forward="true" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
+        <state relative-caret-position="726">
+          <caret line="33" column="39" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetCode/src/main/java/bookOne/algorithmImpl/Subject_20.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="38" column="13" lean-forward="true" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+          <folding>
+            <element signature="e#1335#1336#0" expanded="true" />
+            <element signature="e#1390#1391#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/Deque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="295" column="6" selection-start-line="295" selection-start-column="6" selection-end-line="295" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/ArrayDeque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="588" column="15" selection-start-line="588" selection-start-column="15" selection-end-line="588" selection-end-column="15" />
+          <folding>
+            <element signature="e#19175#19176#0" expanded="true" />
+            <element signature="e#19235#19236#0" expanded="true" />
+            <element signature="e#19417#19418#0" expanded="true" />
+            <element signature="e#19452#19453#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="160" column="12" selection-start-line="160" selection-start-column="12" selection-end-line="160" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/javax/swing/tree/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="46" column="17" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetCode/src/main/java/bookOne/algorithmImpl/Subject_21.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+          <folding>
+            <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetCode/src/main/java/bookOne/algorithmImpl/Subject_23.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetCode/src/main/java/bookOne/algorithmImpl/Subject_22.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="30" column="46" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetCode/src/main/java/bookOne/algorithmImpl/Subject_24.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetCode/src/main/java/bookOne/helperClass/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="61" lean-forward="true" selection-start-line="7" selection-start-column="61" selection-end-line="7" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetCode/src/main/java/bookOne/algorithmImpl/Subject_25.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="53" column="5" lean-forward="true" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetCode/src/main/java/main/mainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="24" column="46" lean-forward="true" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
