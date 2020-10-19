@@ -8,6 +8,11 @@ import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
 
+/**
+ * 给定一棵二叉树，设计一个算法，创建含有某一深度上所有节点的链表
+ * （比如，若一棵树的深度为 D，则会创建出 D 个链表）。
+ * 返回一个包含所有深度的链表的数组。
+ */
 public class Subject_25 {
 
     public ListNode[] listOfDepth(TreeNode tree) {
